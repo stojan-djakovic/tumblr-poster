@@ -1,0 +1,167 @@
+* {
+    font-family: Tahoma;
+ color: #363636;
+}
+
+body {
+ margin:0px;
+ padding: 0px;
+
+ background: #B0C4DE;
+ padding-bottom: 20px;
+}
+
+
+#main {
+    width: 740px;
+    margin-left: auto;
+    margin-right: auto;
+ margin-top: 20px;
+ background-color: #fff;
+ padding: 20px;
+ padding-top: 15px;
+}
+
+h1,h2,h3,h4,h5 {
+    margin: 3px;
+    padding: 2px;
+}
+
+form {
+    margin-top: 10px;
+}
+
+form fieldset {
+    margin-top: 10px;
+}
+
+form fieldset legend {
+ font-weight: bold;
+ font-size: 18px;
+}
+
+label {
+    display: block;
+    font-size:16px;
+ color: #0000FF;
+}
+
+.inp1 {
+    display: block;
+}
+
+.txt1 {
+    display: block;
+    width: 660px;
+    height: 330px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.sbm1 {
+    display: block;
+    font-weight:bold;
+    margin-right: 5px;
+    font-size: 22px;
+    cursor: pointer;
+}
+
+.inp2 {
+    display: block;
+    line-height: 30px;
+    height: 30px;
+    text-indent: 10px;
+    font-size: 18px;
+}
+
+label i {
+    font-style: italic;
+    font-size: 18px;
+    color: #969696;
+}
+
+h3.err {
+    margin: 0px;
+    padding: 0px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    border: 1px solid #FF0000;
+    padding: 2px;
+ padding-left: 7px;
+  padding-right: 7px;
+    color: #FFFFFF;
+     background-color: #FF6347;
+      font-weight: bold;
+      font-size: 15px;
+
+}
+
+h3.ok {
+    margin: 0px;
+    padding: 0px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    border: 1px solid #008000;
+    padding: 2px;
+ padding-left: 7px;
+  padding-right: 7px;
+
+    color: #008000;
+     background-color: #90EE90;
+      font-weight: bold;
+      font-size: 15px;
+
+}
+
+
+hr {
+
+}
+
+.link_edit {
+  text-decoration: none;
+  color: #4169E1;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.link_view {
+  text-decoration: none;
+  color: #4169E1;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+
+.link_edit:hover {
+  color: #800000;
+
+}
+
+.link_view:hover {
+  color: #800000;
+}
+
+
+.link36 {
+  color:  #800000;
+ font-size: 18px;
+ font-weight: bold;
+ text-decoration:  underline;
+}
+
+
+.link36:hover {
+  color: #FF6347;
+}
+
+
+
+
+
+
+
+
+
+
